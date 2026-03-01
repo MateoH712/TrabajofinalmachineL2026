@@ -1,0 +1,7 @@
+pandas
+joblib
+streamlit
+xgboost
+scikit-learn
+
+print("requirements.txt created successfully.")
